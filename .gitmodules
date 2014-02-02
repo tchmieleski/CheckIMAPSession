@@ -1,0 +1,3 @@
+[submodule "mailcore"]
+	path = mailcore
+	url = git@github.com-tchmieleski:MailCore/mailcore2.git
