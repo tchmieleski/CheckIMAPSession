@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "CheckIMAPSessionViewController.h"
 
 @implementation AppDelegate
 
@@ -15,6 +16,10 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
+	
+	CheckIMAPSessionViewController *checkIMAPSessionViewController = [[CheckIMAPSessionViewController alloc] init];
+	[self.window setRootViewController:checkIMAPSessionViewController];
+	
     [self.window makeKeyAndVisible];
     return YES;
 }

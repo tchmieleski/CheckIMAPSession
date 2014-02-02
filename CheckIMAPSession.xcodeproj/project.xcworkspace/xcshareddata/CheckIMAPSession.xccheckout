@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ECF1C300-58ED-4248-9CF3-23CFF0E153BE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CheckIMAPSession</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9115BBF8-1269-417B-9171-DE23CF845AF2</key>
+		<string>ssh://github.com-tchmieleski/tchmieleski/CheckIMAPSession.git</string>
+		<key>FD6EADDD-21B4-49D8-BD02-9B3259996D13</key>
+		<string>ssh://github.com-tchmieleski/MailCore/mailcore2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CheckIMAPSession.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9115BBF8-1269-417B-9171-DE23CF845AF2</key>
+		<string>../..</string>
+		<key>FD6EADDD-21B4-49D8-BD02-9B3259996D13</key>
+		<string>../../mailcore</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com-tchmieleski/tchmieleski/CheckIMAPSession.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9115BBF8-1269-417B-9171-DE23CF845AF2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9115BBF8-1269-417B-9171-DE23CF845AF2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CheckIMAPSession</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FD6EADDD-21B4-49D8-BD02-9B3259996D13</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mailcore</string>
+		</dict>
+	</array>
+</dict>
+</plist>
